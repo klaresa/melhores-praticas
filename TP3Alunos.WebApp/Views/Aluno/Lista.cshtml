@@ -1,0 +1,20 @@
+﻿@model List<TP3Alunos.Domain.Entity.Aluno>;
+
+@{
+    var alunos = Model;
+}
+
+<div class="listagem-post">
+    <ul class="list-group">
+        @foreach (var aluno in alunos)
+        {
+            <li class="list-group-item">
+                <div class="group-post">
+                    <div class="user">@aluno.Nome</div>
+                    <div class="matricula">@aluno.Matricula.Formatado</div>
+                        <a name="id" class="remover" href="/aluno/remover/@aluno.Id">remover</a>
+                </div>
+            </li>
+        }
+    </ul>
+</div>

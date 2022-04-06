@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3etW3rMhASi7yyoSWi/NHmFe6+AE4WfeRZc48qQEpJbvKA8rITRsFLdg1rIS6YzT6C/qLEPTbfx09KuIk6WRbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klari\\source\\repos\\TP3Alunos\\TP3Alunos.Service\\TP3Alunos.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

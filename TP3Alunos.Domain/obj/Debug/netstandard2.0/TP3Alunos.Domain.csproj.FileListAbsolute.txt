@@ -1,0 +1,9 @@
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Domain\bin\Debug\netstandard2.0\TP3Alunos.Domain.deps.json
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Domain\bin\Debug\netstandard2.0\TP3Alunos.Domain.dll
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Domain\bin\Debug\netstandard2.0\TP3Alunos.Domain.pdb
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Domain\obj\Debug\netstandard2.0\TP3Alunos.Domain.csprojAssemblyReference.cache
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Domain\obj\Debug\netstandard2.0\TP3Alunos.Domain.AssemblyInfoInputs.cache
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Domain\obj\Debug\netstandard2.0\TP3Alunos.Domain.AssemblyInfo.cs
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Domain\obj\Debug\netstandard2.0\TP3Alunos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Domain\obj\Debug\netstandard2.0\TP3Alunos.Domain.dll
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Domain\obj\Debug\netstandard2.0\TP3Alunos.Domain.pdb

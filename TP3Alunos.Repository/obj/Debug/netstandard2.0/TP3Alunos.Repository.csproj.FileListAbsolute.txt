@@ -1,0 +1,12 @@
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Repository\bin\Debug\netstandard2.0\TP3Alunos.Repository.deps.json
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Repository\bin\Debug\netstandard2.0\TP3Alunos.Repository.dll
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Repository\bin\Debug\netstandard2.0\TP3Alunos.Repository.pdb
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Repository\bin\Debug\netstandard2.0\TP3Alunos.Domain.dll
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Repository\bin\Debug\netstandard2.0\TP3Alunos.Domain.pdb
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Repository\obj\Debug\netstandard2.0\TP3Alunos.Repository.csprojAssemblyReference.cache
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Repository\obj\Debug\netstandard2.0\TP3Alunos.Repository.AssemblyInfoInputs.cache
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Repository\obj\Debug\netstandard2.0\TP3Alunos.Repository.AssemblyInfo.cs
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Repository\obj\Debug\netstandard2.0\TP3Alunos.Repository.csproj.CoreCompileInputs.cache
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Repository\obj\Debug\netstandard2.0\TP3Alunos.Repository.csproj.CopyComplete
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Repository\obj\Debug\netstandard2.0\TP3Alunos.Repository.dll
+C:\Users\klari\source\repos\TP3Alunos\TP3Alunos.Repository\obj\Debug\netstandard2.0\TP3Alunos.Repository.pdb
